@@ -1,4 +1,4 @@
 PATRIC_genome.csv 文件从PATRC数据库中下载
-fasta_file,gbk_file用来存储下载文件
+fasta_file,gbk_file用来存储下载文件（需要新建两个文件夹）
 
 如果有基因组登录号列表，可注释113行代码，将下载你提供的登录号列表基因组
